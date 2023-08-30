@@ -5,4 +5,12 @@ git init # initialize git dlm folder tu
 git status #aware whats in the file
 git add -- all | git add -A #masukkan semua dlm git
 git commit -m "First release of Hello World!"
+<<<<<<< HEAD
 git branch -d emergency-fix --delete the branch
+=======
+git commit -a -m "Updated index.html with a new line" #commit add message without staging
+git command -help -  See all the available options for the specific command
+git help --all -  See all possible commands
+git branch hello-world-images #create name for branch
+git checkout hello-world-images #to switch to branch
+>>>>>>> hello-world-images
