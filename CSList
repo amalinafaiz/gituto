@@ -5,3 +5,4 @@ git init # initialize git dlm folder tu
 git status #aware whats in the file
 git add -- all | git add -A #masukkan semua dlm git
 git commit -m "First release of Hello World!"
+git branch -d emergency-fix --delete the branch
