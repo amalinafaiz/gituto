@@ -1,0 +1,6 @@
+ctrl k o - open file explorer in vsc
+git -- version  #check version
+git config --global user.email "test@w3schools.com" #assign global
+git init # initialize git dlm folder tu
+git status #aware whats in the file
+git add -- all | git add -A #masukkan semua dlm git
